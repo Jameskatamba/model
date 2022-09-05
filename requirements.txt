@@ -328,3 +328,7 @@ yarl @ file:///C:/ci/yarl_1606940155993/work
 zict==2.0.0
 zipp @ file:///opt/conda/conda-bld/zipp_1641824620731/work
 zope.interface @ file:///C:/ci/zope.interface_1625036252485/work
+setuptools==0.7.3
+pandas~=1.4.3
+flask~=1.1.2
+scikit-learn~=1.1.2
